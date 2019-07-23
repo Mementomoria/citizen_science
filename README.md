@@ -13,3 +13,6 @@ Here are some examples of what "self-describing data" might look like.
 
 ## utilities
 Here is where we might put some helpful scripts etc. 
+
+## data
+Here is where we might store the data in csv format or similar.
